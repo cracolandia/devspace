@@ -2,6 +2,13 @@
 
 Projeto com várias ferramentas e linguagens
 
+Upload Connector and Sink
+
+http://localhost/ - Frontend
+http://localhost:8000/ - DB Adminer
+http://localhost:9000/ - Api
+http://localhost:9021/ - Control center
+
 ## Ideia
 
 <img src="./diagrama.png">
